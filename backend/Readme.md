@@ -6,4 +6,4 @@ npm install
 npm run dev
 pip install Flask jsonify
 pip intall Flask-SQLAlchemy
-pip install flask-cors
+pip install flask-cors  
